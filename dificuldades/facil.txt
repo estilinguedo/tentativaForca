@@ -1,5 +1,16 @@
-opt1 facil
-opt2 facil
-opt3 facil
-opt4 facil
-opt5 facil
+abobora
+alface
+alho
+berinjela
+brocolis
+cebola
+espinafre
+ervilha
+feijao
+milho
+pepino
+pimenta
+batata
+cenoura
+mandioca
+tomate

@@ -1,5 +1,28 @@
-opt1 medio
-opt2 medio
-opt3 medio
-opt4 medio
-opt5 medio
+abacate
+abobora
+abobrinha
+alface
+alho
+berinjela
+brocolis
+cebola
+cebola-roxa
+chuchu
+espinafre
+ervilha
+lentilha
+feijao
+soja
+vagem
+milho
+pepino
+pimentao
+pimenta
+batata
+batata-doce
+beterraba
+cenoura
+gengibre
+mandioca
+repolho
+tomate

@@ -1,5 +1,49 @@
-opt1 dificil
-opt2 dificil
-opt3 dificil
-opt4 dificil
-opt5 dificil
+abacate
+abobora
+abobrinha
+acelga
+agriao
+aipo
+alcachofra
+alface
+alfafa
+aspargo
+alho
+alho-poro
+berinjela
+brocolis
+cebola
+cebola-roxa
+chuchu
+cogumelos
+couve
+couve-flor
+espinafre
+ervilha
+lentilha
+feijao
+soja
+vagem
+fruta-pao
+jilo
+milho
+pepino
+pimentao
+pimenta
+jalapeno
+malagueta
+paprica
+quiabo
+batata
+batata-doce
+beterraba
+cenoura
+gengibre
+inhame
+mandioca
+nabo
+rabanete
+repolho
+rucula
+tomate
+mandioquinha
