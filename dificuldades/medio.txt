@@ -1,0 +1,5 @@
+opt1 medio
+opt2 medio
+opt3 medio
+opt4 medio
+opt5 medio
